@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/vendor/etc/camera/lavender_s5kgm1_sunny_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/lavender_s5kgm1_sunny_ii_chromatix.xml \
     vendor/xiaomi/lavender/proprietary/vendor/etc/camera/lavender_s5kgm1_sunny_india_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/lavender_s5kgm1_sunny_india_ii_chromatix.xml \
     vendor/xiaomi/lavender/proprietary/vendor/etc/camera/lf_facerank_model.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/lf_facerank_model.bin \
-    vendor/xiaomi/lavender/proprietary/vendor/etc/camera/megviifacepp_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/megviifacepp_model \
     vendor/xiaomi/lavender/proprietary/vendor/etc/camera/model_back.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_back.dlc \
     vendor/xiaomi/lavender/proprietary/vendor/etc/camera/model_front.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_front.dlc \
     vendor/xiaomi/lavender/proprietary/vendor/etc/camera/sdm_ys_32p_120_21_5_perturb50.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sdm_ys_32p_120_21_5_perturb50.bin \
